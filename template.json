@@ -1,0 +1,334 @@
+{
+	"name":"...",
+	"pronouns":{
+		"first person":{
+			"summary":"...",
+			"primary":[
+				"..."
+			],
+			"secondary":[
+				"..."
+			],
+			"auxilliary":[
+				"..."
+			],
+			"don't use":[
+				"..."
+			]
+		},
+		"second person":{
+			"summary":"...",
+			"primary":[
+				"..."
+			],
+			"secondary":[
+				"..."
+			],
+			"auxillary":[
+				"..."
+			],
+			"don't use":[
+				"..."
+			]
+		},
+		"third person":{
+			"summary":"...",
+			"primary":[
+				"..."
+			],
+			"secondary":[
+				"..."
+			],
+			"auxillary":[
+				"..."
+			],
+			"don't use":[
+				"..."
+			]
+		}
+	},
+	"identity":{
+		"collecting":[
+			"..."
+		],
+		"gender":{
+			"modality":[
+				"..."
+			],
+			"quality":[
+				"..."
+			],
+			"presentation":[
+				"..."
+			],
+			"identity":[
+				"...",
+			],
+		},
+		"attraction":{
+
+			"common":{
+				"aesthetic attraction":[
+					"..."
+				],
+				"alterous attraction":[
+					"..."
+				],
+				"cedural attraction":[
+					"..."
+				],
+				"emotional attraction":[
+					"..."
+				],
+				"familial attraction":[
+					"..."
+				],
+				"parental attraction":[
+					"..."
+				],
+				"platonic attraction":[
+					"..."
+				],
+				"queerplatonic attraction":[
+					"..."
+				],
+				"romantic attraction":[
+					"..."
+				],
+				"sensual attraction":[
+					"..."
+				],
+				"sexual attraction":[
+					"..."
+				],
+				"tutelary attraction":[
+					"..."
+				]
+			},
+
+			"uncommon":{
+				"adornic attraction":[
+					"..."
+				],
+				"alimentary attraction":[
+					"..."
+				],
+				"alteraffectis attraction":[
+					"..."
+				],
+				"alternating attraction":[
+					"..."
+				],
+				"amarous attraction":[
+					"..."
+				],
+				"amical attraction":[
+					"..."
+				],
+				"amodian attraction":[
+					"..."
+				],
+				"artistic attraction":[
+					"..."
+				],
+				"ashen attraction":[
+					"..."
+				],
+				"considatore attraction":[
+					"..."
+				],
+				"cute attraction":[
+					"..."
+				],
+				"diauamoric attraction":[
+					"..."
+				],
+				"domestic attraction":[
+					"..."
+				],
+				"doraric attraction":[
+					"..."
+				],
+				"ductuaffectian attraction":[
+					"..."
+				],
+				"exteramo attraction":[
+					"..."
+				],
+				"fidelis attraction":[
+					"..."
+				],
+				"flectic attraction":[
+					"..."
+				],
+				"flushed attraction":[
+					"..."
+				],
+				"idyllic attraction":[
+					"..."
+				],
+				"impersonal attraction":[
+					"..."
+				],
+				"invidious attraction":[
+					"..."
+				],
+				"mental attraction":[
+					"..."
+				],
+				"mirous attraction":[
+					"..."
+				],
+				"nebulous attraction":[
+					"..."
+				],
+				"noetic attraction":[
+					"..."
+				],
+				"non-conforming attraction":[
+					"..."
+				],
+				"peculic attraction":[
+					"..."
+				],
+				"physical attraction":[
+					"..."
+				],
+				"pitch attraction":[
+					"..."
+				],
+				"playful attraction":[
+					"..."
+				],
+				"potential attraction":[
+					"..."
+				],
+				"presential attraction":[
+					"..."
+				],
+				"pseudosexual attraction":[
+					"..."
+				],
+				"quaestus attraction":[
+					"..."
+				],
+				"wechselnd attraction":[
+					"..."
+				],
+				"social attraction":[
+					"..."
+				],
+				"solaic attraction":[
+					"..."
+				],
+				"spiritual attraction":[
+					"..."
+				],
+				"sysplatonic attraction":[
+					"..."
+				],
+				"templatonic attraction":[
+					"..."
+				],
+				"tertiary attraction":[
+					"..."
+				],
+				"thoughtic attraction":[
+					"..."
+				],
+				"transcendent attraction":[
+					"..."
+				],
+				"virtudinal attraction":[
+					"..."
+				],
+				"xenial attraction":[
+					"..."
+				]
+			}
+		},
+		"vesility":[
+			"..."
+		],
+		"punk":[
+			"..."
+		],
+		"chronosian":[
+			"..."
+		],
+		"non-conformity":[
+			"..."
+		],
+		"queer presentation culture":[
+			"..."
+		],
+		"X4X":[
+			"..."
+		],
+	},
+	"plurality":{
+		"introtive":{
+			"source things":{
+				"source":"...",
+				"source":[
+					"..."
+				],
+				"type":[
+					"..."
+				],
+				"doubles":"okay/dni/iwc/...",
+				"sourcemates":"okay/dni/iwc/...",
+				"sourcemates":{
+					"name":"okay/dni/iwc/...",
+				},
+				"source talk":"okay/ask/not okay/...",
+				"source talk":{
+					"source":"okay/ask/not okay/...",
+				},
+				"identify with source?":"..."
+			}
+		}
+	}
+}
+
+{
+	"credit":{
+		"this code can be found at":"github.com/goldstargloww/plurality",
+		"discord":"goldstargloww#8020",
+		"pluralkit":"pk;s mttho",
+		"carrd":"goldstargloww.carrd.co",
+		"pronouns.page":"en.pronouns.page/@goldstargloww",
+		"pretty much anywhere else online":"goldstargloww",
+	},
+	"notes":[
+		"credit can be removed! i just personally find it helpful to be able to find something's source",
+		"duplicate values are intended for only one of them to be used - for example, the 'sourcemates' value exists twice. use whichever you'd like",
+		"i don't care what you use this for. feel free to code things related to it, or  just have it as a text file to look through, or literally whatever"
+	]
+}
+
+{
+	"resources (delete this if you want! these are just some links i find helpful":{
+		"links":[
+			"https://www.tumblr.com/vesility",
+			"https://www.tumblr.com/aldernic-haven",
+			"https://www.tumblr.com/allion-archive",
+			"https://chronosian-info.tumblr.com",
+			"https://aldernic.tumblr.com",
+			"https://mogai-masterlists.tumblr.com/post/687321255192477696/x4x-identity-for-identity-masterlist",
+			"https://mogai-masterlists.tumblr.com/post/687602955411685376/queer-presentation-subculture-masterlist",
+			"https://mogai-masterlists.tumblr.com/post/688022909776740352/can-you-look-for-as-many-nonconforming-terms-you",
+			"https://mogai-masterlists.tumblr.com/post/688127841720795136/a-masterlist-for-chronosian-terms",
+			"https://mogai-masterlists.tumblr.com/post/688027868227387392/punk-identities-masterlist"
+			"https://www.tumblr.com/aetherine-archive",
+			"https://www.tumblr.com/mogaihoard",
+			"https://neopronouns-list.tumblr.com",
+			"https://www.tumblr.com/thing-genders-archive",
+			"https://www.tumblr.com/alteraffectis",
+			"https://kenochoric-archive.tumblr.com",
+			"https://www.lgbtqia.wiki/wiki/Category:Gender_Quality",
+			"https://www.lgbtqia.wiki/wiki/Category:Gender_Modality",
+			"https://mogai.miraheze.org/wiki/Category:Category",
+		]
+	}
+}
